@@ -13,7 +13,7 @@ See more details on [ROS wiki's amcl page](http://wiki.ros.org/amcl#Parameters).
 ![project_screenshot](images/2.png)
 
 ## Usage
-1. Pull the code and go into the top level directory of this project.
+1. Pull the code and `cd /path/to/catkin_adaptive_monte_carlo_localization`.
 2. `catkin_make`
 3. `source devel/setup.bash`
 4. Launch the robot inside your world
